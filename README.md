@@ -26,7 +26,7 @@ Here, I have implemented CNN (Convolution Neural Network) using Keras.
     ```
     
     
-![CaptureWrong](https://user-images.githubusercontent.com/53093174/148639159-9c5a7867-f084-4066-a9a9-83977f5f26e2.PNG)
+
 
 
 
